@@ -9,3 +9,16 @@ Proposed Projects:
 3.
 
 4. 
+
+Lucene is part of the Apache open-source project andnprovides high a performamce 
+text searching engine writen in Java. 
+https://wiki.apache.org/lucene-java/HowToContribute
+https://lucene.apache.org/core/
+Having been well documented and having several tickets for continued development,
+this domain could envolve several possible improvements to the current code-base 
+worth researching for the use of this project. There are JIRA issues that are 
+tickets ideal to be investigated by developers new to Apache. See link for details: 
+https://issues.apache.org/jira/browse/SOLR-8955?jql=(project%3DSOLR%20OR%20project%3DLUCENE)%20AND%20resolution%3DUnresolved%20AND%20labels%3Dnewdev
+Examples of tickets are "uppercase problem in querying parameters," and 
+"add min() or max() on string". There are other tickets of larger scope that are also 
+possible canidates for project work.
