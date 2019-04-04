@@ -10,6 +10,11 @@ Proposed Projects:
 
 4. 
 
+RedRunner is visually pleasing platform game written in C# . It is open source and available on Github (see https://github.com/BayatGames/RedRunner).
+This project is over 11k lines of code long. The fact that it is developed in Unity will make visualizing and analyzing the code structure a lot easier. The fact that it is developed by a company most likely means that we will be working with better than average code.
+Contribution to the project is not only allowed, but is very much encouraged by the developer (see https://github.com/BayatGames/RedRunner/blob/master/CONTRIBUTING.md).
+
+
 Lucene is part of the Apache open-source project andnprovides high a performamce 
 text searching engine writen in Java. 
 https://wiki.apache.org/lucene-java/HowToContribute
