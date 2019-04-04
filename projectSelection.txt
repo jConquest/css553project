@@ -27,3 +27,6 @@ https://issues.apache.org/jira/browse/SOLR-8955?jql=(project%3DSOLR%20OR%20proje
 Examples of tickets are "uppercase problem in querying parameters," and 
 "add min() or max() on string". There are other tickets of larger scope that are also 
 possible canidates for project work.
+
+Google ARCore (Google's Open Source C# Unity Augmented Reality SDK for Motion tracking, environmental understanding, light estimation.  Supports Android & IOS). Overview: https://developers.google.com/ar/discover/. Source: https://github.com/google-ar/arcore-unity-sdk/releases. Length 23k lines.  There is an API reference.  Also, 68 open issues which we could contribute on.
+
